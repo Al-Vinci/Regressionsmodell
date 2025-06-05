@@ -1,1 +1,1 @@
-En analys av elbilar, deras prisläge och vad som påverkar priset. Även en hjälplig kod för skrapning, den kan förbättras men fungerar hjälpligt.
+En analys av elbilar, deras prisläge och vad som påverkar priset. Baserad på data i en CSV-fil som inte är inkluderad men en kod för skrapning som ligger till grund för CSV-filen inkluderas, den kan förbättras men fungerar hjälpligt.
